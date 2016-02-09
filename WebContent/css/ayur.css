@@ -1,0 +1,39 @@
+
+div.containner{ 
+	height:100%; 
+	width:100%;
+	margin: 0;
+	position:fixed 
+}
+div.home{
+	
+	background-color: #3B9953;
+	color:#fff;
+	margin:0;
+	padding-top:20px;
+	font-size:14pt;
+	height:20%;
+}
+div.homecontent{
+	
+	background-color: #DBF0E0;
+	margin:0;
+	padding-top:50px;
+	font-size:14pt;
+	height:80%;
+}
+
+.loginbtn{
+	margin-top:35px;
+}
+.clear{
+	clear:left;
+}
+.center{
+	text-align:center;
+}
+.error{
+	color:red;
+	font-size:12pt;
+	font-weight:normal;
+}
