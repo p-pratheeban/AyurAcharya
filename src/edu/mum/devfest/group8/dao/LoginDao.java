@@ -11,7 +11,9 @@ import java.util.List;
 import edu.mum.devfest.group8.model.DailyRoutine;
 import edu.mum.devfest.group8.model.User;
 import edu.mum.devfest.group8.util.Database;
-
+/*
+Author pratheeban
+*/
 public class LoginDao {
 	private Connection connection;
 	ResultSet rs = null;
